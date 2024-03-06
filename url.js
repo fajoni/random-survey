@@ -8,7 +8,8 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://www.facebook.com/profile.php?id=100006829094550',
+	'http://sub.chimei.org.tw/57300/index.php/about/about09/about09-1/%E6%9E%97%E9%87%87%E8%93%89%E9%86%AB%E5%B8%AB',
+	'https://notaryliou.weebly.com/',
+	'http://sub.chimei.org.tw/57550/index.php/members/15-members-list-01/14-dr-02'
 ];
