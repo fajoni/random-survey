@@ -8,8 +8,13 @@
 
 
 const urls = [
-	'https://www.facebook.com/profile.php?id=100006829094550',
-	'http://sub.chimei.org.tw/57300/index.php/about/about09/about09-1/%E6%9E%97%E9%87%87%E8%93%89%E9%86%AB%E5%B8%AB',
-	'https://notaryliou.weebly.com/',
-	'http://sub.chimei.org.tw/57550/index.php/members/15-members-list-01/14-dr-02'
+	'https://forms.gle/nHqtUY6UwE1bJkhH9',
+	'https://forms.gle/VJDykFzb4yRpuyYB9',
+	'https://forms.gle/HJ1mdvvuxH88oHPX8',
+	'https://forms.gle/bCH1SDGC8fRavgaJ8',
+	'https://forms.gle/xjgf4xhuQiGUMcrm6',
+	'https://forms.gle/DtBSDJcNDnv5LZ5S6',
+	'https://forms.gle/tUAVXWmLkFEmHqEx6',
+	'https://forms.gle/XR6dpZN8vXQUuYi67',
+	'https://forms.gle/MUQa6evxnWjHNyPPA'
 ];
